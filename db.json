@@ -1,11 +1,11 @@
 {
   "posts": [
-    { "id": 1, "title": "MotherBoard","image":"","price":"100$" },
-    { "id": 2, "title": "Ram 16Gb","image":"","price":"100$" },
-    { "id": 3, "title": "I5 9400f","image":"","price":"100$"},
-    { "id": 4, "title": "i9 9900","image":"","price":"100$"},
-    { "id": 5, "title": "Rtx 3080 ti","image":"","price":"100$"},
-    { "id": 6, "title": "Geforce 1080 Ti","image":"","price":"100$"}
+    { "id": 1, "title": "MotherBoard","image":"https://raw.githubusercontent.com/luka292/fornt-end/main/asdsxcxz.png","price":"100$" },
+    { "id": 2, "title": "Asrock z390","image":"https://raw.githubusercontent.com/luka292/fornt-end/main/asdsxcxz.png","price":"100$" },
+    { "id": 3, "title": "I5 9400f","image":"https://raw.githubusercontent.com/luka292/fornt-end/main/sadsx.png","price":"100$"},
+    { "id": 4, "title": "i9 9900","image":"https://raw.githubusercontent.com/luka292/fornt-end/main/sadsx.png","price":"100$"},
+    { "id": 5, "title": "Rtx 3080 ti","image":"https://raw.githubusercontent.com/luka292/fornt-end/main/asdas.png","price":"100$"},
+    { "id": 6, "title": "Geforce 1080 Ti","image":"https://raw.githubusercontent.com/luka292/fornt-end/main/asdas.png","price":"100$"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
